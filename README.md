@@ -13,6 +13,7 @@ Organizadores:
 - Luis Juárez [@TioCachas](https://twitter.com/TioCachas)
 - Mackaber Witckin [@Mackaber](https://twitter.com/Mackaber)
 - Octavio Cortés [@octaviocortes1](https://twitter.com/octaviocortes1)
+- Francisco Gerardo [Howser](francisco.gerardo@uxmalsoft.com)
 
 ### Licencia
 
